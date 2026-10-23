@@ -1,0 +1,6 @@
+{
+  "name": "Rahul Midas | Creator Experience",
+  "description": "Immersive 3D creator experience for Rahul Midas featuring verified YouTube videos, trading journeys, interactive 3D galleries, and official Telegram community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
